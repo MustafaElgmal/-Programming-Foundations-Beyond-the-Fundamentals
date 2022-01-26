@@ -1,0 +1,34 @@
+
+ * collection : is grouping multiple items together and storing them with a single name called varible.
+
+ We use collection to orginaze data into varible and reduce the varibles name.
+
+ * list : is simple collection that groups picies of data together in a order and assigne a collection name.
+
+ cities = [
+    'Tokyo', 
+    'Dakar', 
+    'Mumbai', 
+    'Buenos Aires',
+]
+
+ __ element in list start with indx 0
+ 
+
+
+ * dictionary : lets you to store related information 
+
+ california_symbols = {
+    'bird': 'California quail',
+    'animal': 'Grizzly bear',
+    'flower': 'California poppy',
+    'fruit': 'Avocado',
+}
+ __ to access element in dictionary california_symbols[label]
+
+
+
+
+
+
+

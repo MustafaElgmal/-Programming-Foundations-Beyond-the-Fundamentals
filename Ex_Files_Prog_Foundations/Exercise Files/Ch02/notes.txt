@@ -1,0 +1,17 @@
+
+* Iterations : Repets the same procedure multiple times until it reaches to spicified endpoint.
+
+* loop :Code that iterates , moving from the beginning to end of the process,then starting over
+
+* for loop : keyword to loop on all items to endpoint
+
+for spice in spices:
+    print(spice)
+
+*while loop: keyword to loop on all items to custom endpoint
+
+while i <= 100:
+    print(i)
+    i += 5
+
+

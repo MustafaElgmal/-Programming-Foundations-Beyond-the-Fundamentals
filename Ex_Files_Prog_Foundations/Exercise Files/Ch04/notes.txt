@@ -1,0 +1,20 @@
+
+
+* concatenation: when multiple strings are combined into a single string.
+
+value = 50
+print(value + ' is my favorite number!')
+
+* Capitlization():  to convert the first char in string to capitalization.
+
+first_name = "mostafa"
+first_name_cap = first_name.capitalize()
+
+* find(): to cheack if a word "award:" in string or not if exit return indx of first char in
+
+a word or if not return -1.
+
+note = 'award: Nobel Peace Prize'
+award_location = note.find('award: ')
+
+* Regular expritions: Allows you to create a description of a Pattern that you want to Match
